@@ -22,7 +22,6 @@ js/gradio-preview/test/*
 
 # Gradio run artifacts
 *.db
-*.sqlite3
 gradio/launches.json
 flagged/
 gradio_cached_examples/
