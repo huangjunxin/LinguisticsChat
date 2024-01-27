@@ -71,7 +71,7 @@ def assistant(message, history, passcode):
 main_interface = gr.ChatInterface(
             fn=assistant,
             title="LinguisticsChat",
-            description="Please enter the question you would like to ask about the field of linguistics.",
+            description="Please enter the question you would like to ask about the field of linguistics. (Version: Alpha 0.1, Supported by LinguisticsChat Team)",
             retry_btn=None,
             undo_btn=None,
             additional_inputs=[
