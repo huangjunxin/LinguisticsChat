@@ -2,7 +2,7 @@
 title: LinguisticsChat
 emoji: 🗣️
 colorFrom: indigo
-colorTo: cyan
+colorTo: blue
 sdk: gradio
 sdk_version: 4.8.0
 app_file: main.py
